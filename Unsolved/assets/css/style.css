@@ -27,17 +27,17 @@ img {
 
 #item-1 {
   background-color: #e0115f;
- 
+display: inline;
 }
 
 #item-2 {
   background-color: #0000ff; 
- 
+  display: inline;
 }
 
 #item-3 {
   background-color: #999900;
-  
+  display: inline;
 }
 
 #image-1 {
