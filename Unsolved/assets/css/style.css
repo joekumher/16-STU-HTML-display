@@ -27,18 +27,27 @@ img {
 
 #item-1 {
   background-color: #e0115f;
-  display: block;
+ 
 }
 
 #item-2 {
   background-color: #0000ff; 
-  display: block;
+ 
 }
 
 #item-3 {
   background-color: #999900;
-  display: block;
+  
 }
+
+#image-1 {
+display: block;
+
+}
+#image-2 {
+  display: block;
+  
+  }
 
 /* Box 3 */
 #image-3 {
